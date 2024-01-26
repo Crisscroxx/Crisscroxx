@@ -2,7 +2,7 @@
 
 I thrive on turning ideas into code and enjoy tackling challenges that push my skills to new heights. With a background in Web/Java developer, I am always eager to learn and explore emerging technologies.
 __________________________________________________________________________
-Languages: Java, JavaScript
+Languages: Java, Python, JavaScript
 
 Web Development: HTML, CSS, PHP
 
