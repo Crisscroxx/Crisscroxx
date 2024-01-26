@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hi there! I'm Cristopher, a software developer and tech enthusiast.
 
-<!--
-**Crisscroxx/Crisscroxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I thrive on turning ideas into code and enjoy tackling challenges that push my skills to new heights. With a background in Web/Java developer, I am always eager to learn and explore emerging technologies.
 
-Here are some ideas to get you started:
+Skills
+Languages: Java, JavaScript
+Web Development: HTML, CSS, PHP
+Database: MySQL
+Tools: Git, Jira, Eclipse, VSCode, Docker
+Projects
+(Future Proyects will be displayed down below)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with Me
+Let's connect and collaborate on exciting projects! You can find me on:
+
+https://www.linkedin.com/in/cristopher-rosado-miranda-5a9860181?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
